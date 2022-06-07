@@ -1,2 +1,1 @@
-# Forca
-Jogo da forca
+# Forca // Hangman
